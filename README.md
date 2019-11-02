@@ -41,4 +41,4 @@ daniwell@aidn.jp
 ※ エグジットチューンズ管理楽曲（「Nyan Cat」や「ねこみみスイッチ」など）の商用利用につきましては、下記お問い合わせ窓口よりご連絡ください。
 http://exittunes.com/license/
 ```
-由于违规使用本repo带来的后果HFIProgramming不承担结果  
+由于违规使用本repo带来的后果,本分享自不承担结果  
